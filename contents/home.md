@@ -6,8 +6,8 @@ I'm currently working at Hisilicon , Digital IC designer.
 <code>sijia5683@163.com</code>
 
 #### Education  
-<p>**Waseda University**, Master of Microelectronics Engineering (2016 – 2018)</p> 
-<p>**University of Electronic SCience and Technology of China**, Bachelor of Communications Engineering (2012 – 2016)</p> 
+**Waseda University**, Master of Microelectronics Engineering (2016 – 2018)<br> 
+**University of Electronic SCience and Technology of China**, Bachelor of Communications Engineering (2012 – 2016)<br> 
 
 #### Research Interests  
 SoC, Memory Subsystem, NoC
