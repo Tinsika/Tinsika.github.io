@@ -1,6 +1,6 @@
 ### **Digital IC Design Engineer**  
 **Sep 2022 – June 2026 | Hisilicon**  
-Lead the team in the development of the MEM control IP for the SOC system, including the SRAM controller, FLASH controller.
+Lead the team in the development of the MEM control IP for the SOC system, including the SRAM controller, FLASH controller.<br>
 **Sep 2018 – Sep 2022 | Hisilicon**  
 Responsible for the development of the coherence bus in the SOC system, including the ROUTER routing module, HNF scheduling module.
 
@@ -14,7 +14,7 @@ Responsible for the development of the coherence bus in the SOC system, includin
 ### **数字IC设计工程师**
 **2022年9月 – 2026年6月 | 海思**  
 带领小组完成SOC系统MEM控制IP的开发，包括SRAM控制器、FLASH控制器。
-带领小组完成SOC系统MEM控制IP的开发，包括SRAM控制器、FLASH控制器。
+带领小组完成SOC系统MEM控制IP的开发，包括SRAM控制器、FLASH控制器。<br>
 **2018年9月 – 2022年9月 | 海思**  
 负责SOC系统一致性总线的开发，包括ROUTER路由模块、HNF调度模块。
 
